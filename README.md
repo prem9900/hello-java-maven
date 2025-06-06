@@ -55,11 +55,12 @@ hello-java-maven/
 
 ````
 
-## 🖥 Output Screenshot
+ 🖥 Output Screenshot
 
-> 👇 Below is the natural console output from Jenkins showing `BUILD SUCCESS`:
+ Below is the natural console output from Jenkins showing `BUILD SUCCESS`:
 
-![Build Success](./screenshot.png)
+![Build Success](./hello-java-maven/jenkins_build_success_screenshot.png)
+
 
 
 
