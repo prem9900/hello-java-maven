@@ -57,7 +57,7 @@ hello-java-maven/
 
  🖥 Output Screenshot
 
- Below is the natural console output from Jenkins showing `BUILD SUCCESS`:
+ Below is the  console output from Jenkins showing `BUILD SUCCESS`:
 
 ![Build Success](./hello-java-maven/jenkins_build_success_screenshot.png)
 
